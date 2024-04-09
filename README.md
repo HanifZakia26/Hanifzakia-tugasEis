@@ -1,4 +1,4 @@
-# Tugas EIS 28 Maret 2024: Belajar Slicing Template dengan CodeIgniter 4
+# Tugas EIS 28 Maret 2024: Templating dgn CodeIgniter 4
 
 ## Deskripsi Tugas
 Tugas ini bertujuan untuk memahami konsep *slicing template* menggunakan **CodeIgniter 4**. Kalian akan memilih template dari [w3layouts.com](https://w3layouts.com/) dan mengintegrasikannya dengan proyek CodeIgniter 4. Berikut langkah-langkahnya:
